@@ -598,6 +598,10 @@ section{
         margin: 0 auto;
     }
 
+    .main__cards-title{
+        text-align: center;
+    }
+
     .main__cards-container{
         gap: 8px;
         justify-content: space-evenly;
@@ -699,6 +703,8 @@ section{
 
     .main__collection__card-button{
         margin-top: 32px;
+        width: 100%;
+        max-width: none;
     }
 
     .footer{
